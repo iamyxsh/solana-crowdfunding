@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://fundzkickstarter.vercel.app/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -12,7 +12,7 @@
     <a href="https://github.com/iamyxsh/solana-crowdfunding/tree/master/programs/solana-crowdfunding"><strong>Explore the solana prgram</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://fundzkickstarter.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/iamyxsh/solana-crowdfunding/issues">Report Bug</a>
   </p>
@@ -22,7 +22,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][homepage]](https://example.com)
+[![Product Name Screen Shot][homepage]](https://fundzkickstarter.vercel.app/)
 
 This app is built on top of Solana Blockchain to showcase my skills in the web3
 world. 🌏
@@ -92,13 +92,17 @@ then withdraw to your own wallet.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- Connect your wallet [![Connect Wallet][connect-wallet]](https://example.com)
+- Connect your wallet
+  [![Connect Wallet][connect-wallet]](https://fundzkickstarter.vercel.app/)
 
-- Create your project [![Create Project][create-project]](https://example.com)
+- Create your project
+  [![Create Project][create-project]](https://fundzkickstarter.vercel.app/create)
 
-- Fund a project [![Fund Project][fund-project]](https://example.com)
+- Fund a project
+  [![Fund Project][fund-project]](https://fundzkickstarter.vercel.app/project?key=BTrespkCHNU2FkErRZSpZSqk1Lt8HZDgXZqJFPc88Vz5)
 
-- Withdraw the SOL [![Withdraw SOL][withdraw-sol]](https://example.com)
+- Withdraw the SOL
+  [![Withdraw SOL][withdraw-sol]](https://fundzkickstarter.vercel.app/profile)
 
 <!-- CONTACT -->
 

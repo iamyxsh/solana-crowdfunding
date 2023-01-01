@@ -9,12 +9,12 @@
   <p align="center">
     Web3 Crowdfunding Platform
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the solana prgram</strong></a>
+    <a href="https://github.com/iamyxsh/solana-crowdfunding/tree/master/programs/solana-crowdfunding"><strong>Explore the solana prgram</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/iamyxsh/solana-crowdfunding/issues">Report Bug</a>
   </p>
 </div>
 
@@ -24,8 +24,8 @@
 
 [![Product Name Screen Shot][homepage]](https://example.com)
 
-This is an app built on top of Solana Blockchain to showcase my skills in the
-web3 world. 🌏
+This app is built on top of Solana Blockchain to showcase my skills in the web3
+world. 🌏
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -41,13 +41,9 @@ web3 world. 🌏
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project
-locally. To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to
-install them.
+You will need a few things set up before you can play around.
 
 - npm
   ```sh
@@ -71,7 +67,7 @@ install them.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/iamyxsh/solana-crowdfunding
    ```
 2. Install NPM packages
    ```sh
@@ -88,9 +84,9 @@ install them.
 
 ## Usage
 
-Use the app in DEVNET env to start your own crodfunding project where you can
-set a goal and people can donate SOL to the project which you can withdraw later
-to your own wallet.
+In the DEVNET environment, use the app to create your own crowd funding project,
+where you can set a goal and people can donate SOL to the project, which you can
+then withdraw to your own wallet.
 
 ### Steps
 
